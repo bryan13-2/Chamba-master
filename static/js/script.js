@@ -70,6 +70,7 @@ $(document).ready(function() {
             $('#serial_registro_civil').prop('disabled', true);
         }
     });
+    
 
      // Validar campos antes de permitir la consulta
      $('#boton_consultar').on('click', function(event) {
